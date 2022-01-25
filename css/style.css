@@ -29,7 +29,7 @@ svg {
 }
 
 #header {
-  background-image: url(../images/wallpaper/header.png);
+  background-image: url(../images/wallpaper/header.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -184,7 +184,7 @@ svg {
     border: 8px solid #2e3245;
     padding: 18px;
     display: flex;
-    background-image: url(../images/wallpaper/tournaments.png);
+    background-image: url(../images/wallpaper/tournaments.jpg);
     background-position: center;
     background-size: cover;
   }
@@ -280,7 +280,7 @@ svg {
 }
 #eventAndLeague {
     color: #FFF;
-    background-image: url("../images/wallpaper/leagues.png");
+    background-image: url("../images/wallpaper/leagues.jpg");
     background-size: cover;
     background-position: center;
     margin-top: 80px;
@@ -336,7 +336,7 @@ svg {
     padding: 13px;
     display: flex;
     flex-direction: column;
-    background-image: url("../images/wallpaper/leagues-box.png");
+    background-image: url("../images/wallpaper/leagues-box.jpg");
     background-position: center;
     background-size: cover;
   }
